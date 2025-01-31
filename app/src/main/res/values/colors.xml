@@ -6,4 +6,10 @@
     <color name="trasparente">#8B673AB7</color>
     <color name="celeste">#4eecf6</color>
 
+    <color name="sh_stat_1">#FF1B45</color>
+    <color name="sh_stat_2">#97F64E</color>
+    <color name="sh_stat_3">#7886F8</color>
+    <color name="sh_stat_4">#FFE420</color>
+    <color name="sh_stat_5">#FF27F6</color>
+    <color name="sh_stat_6">#9613F8</color>
 </resources>
